@@ -107,33 +107,24 @@ hr{
     background-color: #00B0F0;
     border: none;
 }
-.hrhome{
-    margin-left:40% ;
-}
 .learn{
     border:none;
     border-radius: 8px;
-   /* padding:10px;*/
+    padding:10px;
     background-color:#00B0F0 ;
     color:#EEEEFF;
-    height: 30px;
-    width: 90px;
 }
 .Get{
     border:none;
     border-radius: 8px;
-  /*  padding:10px;*/
+    padding:10px;
     background-color:rgba(0, 0, 0, 0.2) ;
     color:#00B0F0;
-    height: 30px;
-    width: 170px;
 }
 .divlearn{
     float: left;
     width: 20%;
     padding-left: 10%;
-    margin-right: 1%;
-
 }
 .btns{
     padding-left: 33%;
@@ -186,7 +177,6 @@ box-shadow: 4px 5px 8px #000;
     float: left;
     width: 50%;
     padding-top:20%;
-    height: 600px;
 }
 .hinfo{
     color:#000;
